@@ -49,11 +49,13 @@ public class GooglyEyes extends PApplet {
     
     @Override
     public void setup() {
-
+        background(255,0,0);
     }
 
     @Override
     public void draw() {
+       fill(0,0,255);
+       rect(0,0,100,100);
 
     }
 

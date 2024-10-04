@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GooglyEyes",
+            "request": "launch",
+            "mainClass": "_02_boolean._5_googly_eyes.GooglyEyes",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "ChangeCalculator",
             "request": "launch",
             "mainClass": "_01_double._1_change_calculator.ChangeCalculator"
